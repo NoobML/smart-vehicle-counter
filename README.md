@@ -6,11 +6,11 @@ An advanced real-time vehicle counting system that uses YOLOv8 for object detect
 
 ### 🔄 Before & After Comparison
 
-#### 🎥 Original Video (cars.mp4)
-![Original](cars.gif)
+<h4>🎥 Original Video (cars.mp4)</h4>
+<img src="cars.gif" width="800"/>
 
-#### 🧠 After Processing (detection_demo.mp4)
-![Processed](detection_demo.gif)
+<h4>🧠 After Processing (detection_demo.mp4)</h4>
+<img src="detection_demo.gif" width="800"/>
 
 > ⚠️ These are GIF previews. Full videos (`cars.mp4` and `detection_demo.mp4`) are uploaded in the repo and can be downloaded for further use.
 
